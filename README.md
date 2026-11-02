@@ -10,6 +10,8 @@ A curated selection of ICS3U and ICS4U projects, chosen to show variety across a
 - **Day 05 Mini Game** — A small interactive game project, bringing together input and control flow.
 - **MiniGame2** — A second mini-game project, adding another example of interactive program design.
 - **Objects and Instances** — Demonstrates object-oriented programming through classes and instances.
+- **Shape Calculator** (`ICS3U/Shape Calculator`) — Calculates geometric measurements, combining formulas with program input and output.
+- **TicTacToe** (`ICS3U/TicTacToe`) — An interactive two-player game, showcasing turn-based logic and win-condition checks.
 - **TextAndImages** — Combines text and image output in a graphical Java project.
 - **Wilson_Animation_Project** — A more developed animation project showcasing graphics and motion.
 - **grocery list** — A practical list-management program, adding a utility application to the portfolio.
